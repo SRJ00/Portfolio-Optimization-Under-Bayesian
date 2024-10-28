@@ -1,4 +1,6 @@
 # Portfolio Optimization under the Bayesian Paradigm
+### - Kushal Bhattacharya
+### - Saurav Jadhav 
 
 <font size='2'> Portfolio optimization is allocating funds across some asset class to gain maximum returns under some constraints. The goal is to allocate the funds to each asset class in some proportion which will maximize returns. The traditional Markowitz model enables us to maximize returns for some portfolio returns for a given risk. The risk is nothing but the variance-covariance of assets. This model has a couple of shortcomings, we cannot leverage the higher-order moments that might drive stock returns in some extreme direction. **Why should we not prefer a stock which has a positively skewed distribution?** Also, the parameters in the traditional Markowitz setup are assumed to be constant. But that rarely happens. [Harvey, Campbell R. and Liechty, John and Liechty, Merrill W. and Mueller, Peter, Portfolio Selection with Higher Moments(HLLM)(December 13, 2004)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=634141) propose a Bayesian paradigm that addresses these two shortcomings.
 
